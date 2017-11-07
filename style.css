@@ -1,0 +1,55 @@
+/*style.css*/
+body {font-family: 'Quicksand', sans-serif;
+   background-color:rgb( 219, 200, 243);
+   float:inherit;}
+
+
+h1 {
+  text-align: center;
+  color: rgb( 154, 109, 210 );
+  font-variant: small-caps;
+  text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+  border: rgb(154, 109, 210) inset;
+  margin-left: 550px;
+  margin-right: 550px;
+  float:right;
+  position: absolute;
+white-space:nowrap;}
+
+.fotoinfomoi{float: left;}
+
+
+h2{ border-radius: 35px;
+  border-left: none;
+  border-right: none;
+  background: radial-gradient(rgb( 154, 109, 210 ), white);
+  font-style: relative;
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  margin-top: 3px;
+  white-space:nowrap
+}
+
+.dev ul {list-style-type: none;}
+
+.dev{float:right;
+position: absolute;
+    margin-right: 100px;
+  margin-left: 50px;
+  white-space:nowrap;
+margin-top: 50px}
+
+.info ul{list-style-type: none}
+
+
+.adage{border-radius: 36px 12px;
+      text-align: center;
+  margin-left: 600px;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: inherit;
+color: white;
+text-shadow: black 0.1em 0.1em 0.2em;
+background-color: rgb( 240, 227, 255);
+white-space:nowrap;}
